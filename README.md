@@ -1,2 +1,2 @@
 # TextToHTML
-a convertor text to HTML
+A convertor text to HTML.
